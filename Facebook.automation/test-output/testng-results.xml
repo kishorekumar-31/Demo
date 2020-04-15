@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-17T15:30:20Z" name="Hrm Test Suite" finished-at="2019-11-17T15:33:12Z" duration-ms="172932">
+    <groups>
+    </groups>
+    <test started-at="2019-11-17T15:30:20Z" name="Login" finished-at="2019-11-17T15:33:12Z" duration-ms="172932">
+      <class name="Testcases.LoginPageTest">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:Testcases.LoginPageTest@3d299e3]" started-at="2019-11-17T15:29:45Z" name="launchbrowser" finished-at="2019-11-17T15:30:20Z" duration-ms="34665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="login()[pri:0, instance:Testcases.LoginPageTest@3d299e3]" started-at="2019-11-17T15:30:20Z" name="login" finished-at="2019-11-17T15:33:12Z" duration-ms="172872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.LoginPageTest@3d299e3]" started-at="2019-11-17T15:33:13Z" name="teardown" finished-at="2019-11-17T15:33:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.LoginPageTest -->
+    </test> <!-- Login -->
+  </suite> <!-- Hrm Test Suite -->
+</testng-results>
